@@ -1,4 +1,4 @@
-## Welcome to devutil.net - Awesome Develop Utilities organization. 👋
+## Welcome to webutil.pro - Awesome Web Utilities organization. 👋
 
 <!--
 
@@ -11,6 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-🙋‍♀ We provide practical development tools covering various areas, including front-end, back-end, data analysis, AI, and ML. 
-
-🌈  Our tools are simple, efficient, reliable, and flexible, continuously improved and updated.
+🙋‍♀ We provide practical online tools covering various areas, including front-end, back-end, data analysis, AI, and ML. 
